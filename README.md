@@ -10,3 +10,6 @@
 3. Add transformer mechanism
 4. Image denoising + enhancing
 5. YOLO + MAE
+
+## Training
+This project runs on Google Colab
